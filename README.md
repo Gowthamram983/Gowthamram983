@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gowthamram983
-- 👀 I’m interested in ... Programming
-- 🌱 I’m currently learning ... TIVA TM4C123 Evaluation Board based Driver programming
-- 💞️ I’m looking to collaborate on ... Learning aspects
+- 👀 I’m interested in ... Systems engineering and programming.
+- 🌱 I’m currently learning ... TIVA TM4C123 Evaluation Board based Driver programming with applications.
+- 💞️ I’m looking to collaborate on ... Learning aspects.
 - 📫 How to reach me ... rgowthamgauti@gmail.com
 
 <!---
